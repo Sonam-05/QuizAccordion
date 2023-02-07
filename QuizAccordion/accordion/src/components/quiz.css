@@ -1,0 +1,20 @@
+.Quiz{
+    display: flex;
+    box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.365);
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 32px;
+    height: fit-content;
+}
+
+.heading{
+    margin: 12px;
+    width: 30%;
+}
+
+.quizContainer{
+    width: 65%;
+}
+
+
+
